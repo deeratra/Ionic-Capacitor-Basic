@@ -12,7 +12,7 @@ and then to run the project `ionic serve`
 
 # Preview
 
-<div style="display: flex; flex-direction: 'row'>
+<div style="display: flex; flex-direction: 'row'">
 <img src="./screenshots/1.png" width="30%">
 <img src="./screenshots/2.png" width="30%">
   
