@@ -17,3 +17,8 @@ and then to run the project `ionic serve`
 <img src="./screenshots/2.png" width="30%">
   
 </div>
+
+# Things Learned
+- Various Ionic Features
+- Themes in Ionic
+- Ionic Components
